@@ -1,6 +1,8 @@
 # .travis.yml: Travis CI config.
 # Licensed under Apache-2.0. Details in LICENSE.
 language: node_js
+node_js:
+  - 12
 git:
   depth: false
   quite: true
