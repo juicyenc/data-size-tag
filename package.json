@@ -21,5 +21,8 @@
     "bugs": {
         "url": "https://github.com/juicyenc/data-size-tag/issues"
     },
-    "homepage": "https://github.com/juicyenc/data-size-tag#readme"
+    "homepage": "https://github.com/juicyenc/data-size-tag#readme",
+    "devDependencies": {
+        "mocha": "^8.0.1"
+    }
 }
