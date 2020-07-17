@@ -1,25 +1,25 @@
 {
-  "name": "file-size-tag",
-  "version": "1.0.0",
-  "description": "An ES6 tag for calculating file size from string",
-  "main": "lib.js",
-  "scripts": {
-    "test": "npx mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/juicyenc/file-size-tag.git"
-  },
-  "keywords": [
-    "file",
-    "size",
-    "es6",
-    "tag"
-  ],
-  "author": "juicyenc",
-  "license": "Apache-2.0",
-  "bugs": {
-    "url": "https://github.com/juicyenc/file-size-tag/issues"
-  },
-  "homepage": "https://github.com/juicyenc/file-size-tag#readme"
+    "name": "data-size-tag",
+    "version": "1.0.0",
+    "description": "An ES6 tag for calculating data size from string",
+    "main": "lib.js",
+    "scripts": {
+        "test": "npx mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/juicyenc/data-size-tag.git"
+    },
+    "keywords": [
+        "file",
+        "size",
+        "es6",
+        "tag"
+    ],
+    "author": "juicyenc",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/juicyenc/data-size-tag/issues"
+    },
+    "homepage": "https://github.com/juicyenc/data-size-tag#readme"
 }
