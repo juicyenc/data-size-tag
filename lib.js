@@ -9,7 +9,7 @@ function processString(str) {
         var regex = /^(\d+)({KMGTEBZYkmgtebgy})(i?)({Bb})$/.compile();
         var result = str.match(regex);
         if (result === null) {
-            throw new Error(`${str} is not data size.`);
+            throw new Error(`${str} is not data size literal.`);
         } else {
             var is1024 = result[3] === 'i';
             var isbit = result[4] === 'b';
