@@ -4,7 +4,7 @@
     "description": "An ES6 tag for calculating data size from string",
     "main": "lib.js",
     "scripts": {
-        "test": "npx mocha"
+        "test": "mocha"
     },
     "repository": {
         "type": "git",
