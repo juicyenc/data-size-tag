@@ -3,7 +3,7 @@ An ES6 tag for calulation file size.
 
 ## usage
 ```javascript
-var { bit, byte } = require('file-size-tag');
+var { bit, byte } = require('data-size-tag');
 var size;
 size = bit`4KB`; // (4 * 1000) byte * 8 bit/byte = 32000 bytes
 size = byte`4KB`; // (4 * 1000) byte = 4000 bytes
