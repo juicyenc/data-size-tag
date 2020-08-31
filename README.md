@@ -1,4 +1,4 @@
-# file-size-tag
+# data-size-tag
 An ES6 tag for calulation file size.
 
 ## usage
